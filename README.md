@@ -2,7 +2,7 @@
 
 银河星空风格的个人工具导航，部署在 GitHub Pages 上对外访问，进入前需要输入访问密码（默认 `1688`）。
 
-线上地址：`https://atwu5.github.io/ai-explore/`
+线上地址：`https://atwu5.github.io/5/`（仓库名 `5`，源于源文件 5.html；如需改网址可在 GitHub 仓库 Settings 里 Rename，Pages 地址会自动跟随）
 
 ## 项目结构
 
@@ -27,7 +27,7 @@ ai-explore/
 
 ## 部署步骤（GitHub Pages）
 
-1. **创建仓库**：在 GitHub 上新建公开仓库 `atwu5/ai-explore`（不要勾选自动生成 README）。
+1. **创建仓库**：在 GitHub 上新建公开仓库 `atwu5/5`（不要勾选自动生成 README）。（已完成）
 
 2. **推送代码**（本机 github.com:443 不通，推送一律走 SSH）：
 
@@ -37,7 +37,7 @@ ai-explore/
    git add -A
    git commit -m "init: AI·探索 工具导航站"
    git branch -M main
-   git remote add origin git@github.com:atwu5/ai-explore.git   # 已设置过可跳过
+   git remote add origin git@github.com:atwu5/5.git   # 已设置过可跳过
    git push -u origin main
    ```
 
