@@ -1,0 +1,44 @@
+{
+  "tools": [
+    {
+      "id": "chinext",
+      "name": "创业板观察仪",
+      "category": "金融工具",
+      "desc": "创业板市场观察，辅助研判市场高低位，为逃顶与抄底提供参考。",
+      "url": "https://atwu5.github.io/chinext-dividend-dashboard/",
+      "icon": "chart"
+    },
+    {
+      "id": "etf",
+      "name": "汪汪队上班没",
+      "category": "金融工具",
+      "desc": "宽基 ETF 成交额与资金动向追踪，洞察市场交易热度。",
+      "url": "https://atwu5.github.io/etf-turnover-tracker/",
+      "icon": "paw"
+    },
+    {
+      "id": "offer",
+      "name": "生活计算工具箱",
+      "category": "生活工具",
+      "desc": "Offer 对比、纪念日倒计时等生活实用计算，一站式轻松搞定。",
+      "url": "https://atwu5.github.io/offer-compare/",
+      "icon": "calculator"
+    },
+    {
+      "id": "audio",
+      "name": "声阅",
+      "category": "生活工具",
+      "desc": "免费 PDF 有声阅读工具，让阅读从眼睛延伸到耳朵。",
+      "url": "https://atwu5.github.io/pdf-audiobook/",
+      "icon": "book"
+    },
+    {
+      "id": "kids",
+      "name": "小孩 AI 启蒙打卡计划",
+      "category": "生活工具",
+      "desc": "孩子的 AI 启蒙第一课，记录每一次探索与成长。",
+      "url": "https://jatwu555.github.io/ai-kid-plan/",
+      "icon": "spark"
+    }
+  ]
+}
