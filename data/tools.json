@@ -39,6 +39,14 @@
       "desc": "孩子的 AI 启蒙第一课，记录每一次探索与成长。",
       "url": "https://atwu5.github.io/ai-kid-plan/",
       "icon": "spark"
+    },
+    {
+      "id": "focus",
+      "name": "深度聚焦",
+      "category": "生活工具",
+      "desc": "工作、冥想、听歌，让创造力释放。",
+      "url": "https://musicto.work/",
+      "icon": "music"
     }
   ]
 }
